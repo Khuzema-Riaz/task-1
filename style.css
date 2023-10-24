@@ -1,0 +1,35 @@
+.IMG-1{
+  
+   background-image: url(img/Capture.JPG);
+ 
+   background-size: 1850PX;
+   background-repeat: no-repeat;
+   
+
+    }
+    
+    @media (min-width: 768px) {
+    .gradient-form {
+    height: 100vh !important;
+    }
+    }
+    @media (min-width: 769px) {
+    .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+    }
+    }
+
+    /* task  .css */
+
+
+    .gradient-custom {
+
+       
+        background: #15caa3;
+        
+       
+        background: -webkit-linear-gradient(to right bottom, rgb(77, 152, 212), rgb(66, 61, 126));
+     
+        background: linear-gradient(to right bottom, rgb(60, 100, 65), rgb(3, 160, 63))
+        }
